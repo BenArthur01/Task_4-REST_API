@@ -59,3 +59,4 @@ const debouncedSearch = debounce(function(){
 }, 500);
 
 searchInput.addEventListener("input", debouncedSearch);
+
