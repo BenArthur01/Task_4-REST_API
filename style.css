@@ -8,7 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: #f4f4f4;
+    background: #eae7e7;
 }
 
 .container {
@@ -17,7 +17,7 @@ body {
     border-radius: 10px;
     width: 350px;
     text-align: center;
-    box-shadow: 0 5px 15px , rgba(0, 0, 0, 0.4)
+    box-shadow: 0 5px 15px  rgba(0, 0, 0, 0.1)
 }
 
 input {
